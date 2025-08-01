@@ -9,7 +9,7 @@ A full-stack ToDo List application built with React (frontend) and Node.js/Expre
 - RESTful API
 
 ## Live Demo
-[View the deployed app on Vercel](https://todo-app-mocha-ten-14.vercel.app)
+[View the deployed app on Vercel](https://todo-app-r9sj.vercel.app/)
 
 ## Technologies Used
 - Frontend: React, Vite, Axios
